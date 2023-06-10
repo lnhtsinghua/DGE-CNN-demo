@@ -13,7 +13,8 @@ run inference.py to predict the boundary-enhanced depth map for input 2D image
 run segment.py to conduct pixel-average slicing according to predicted depth map and input 2D image
 
 # Data
-
+Download the NYU Depth Dataset V2 Labelled Dataset : http://horatio.cs.nyu.edu/mit/silberman/nyu_depth_v2/nyu_depth_v2_labeled.mat.
+Download the Make3D Dataset: 
 # Reference
 N. Liu, Z. Huang, Z. He and L. Cao, "DGE-CNN: 2D-to-3D holographic display based on depth gradient
 extracting module and CNN network" Already submitted to Optics Express
