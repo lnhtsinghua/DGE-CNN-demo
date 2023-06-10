@@ -25,7 +25,7 @@ Download the Make3D Dataset: http://make3d.cs.cornell.edu/data.html
 
 Or we have provided our back up NYU Depth Dataset V2 data that goes with our demo.
 
-Back up link (data and source code): 
+Back up link (data and source code): https://cloud.tsinghua.edu.cn/d/edf599b1febf4c1a955e/
 
 
 # Reference
