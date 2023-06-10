@@ -14,7 +14,10 @@ run segment.py to conduct pixel-average slicing according to predicted depth map
 
 # Data
 Download the NYU Depth Dataset V2 Labelled Dataset : http://horatio.cs.nyu.edu/mit/silberman/nyu_depth_v2/nyu_depth_v2_labeled.mat.
-Download the Make3D Dataset: 
+Download the Make3D Dataset: http://make3d.cs.cornell.edu/data.html
+Or we have provided our back up NYU Depth Dataset V2 data that goes with our demo
+Back up link (data and source code): 
+
 # Reference
 N. Liu, Z. Huang, Z. He and L. Cao, "DGE-CNN: 2D-to-3D holographic display based on depth gradient
 extracting module and CNN network" Already submitted to Optics Express
