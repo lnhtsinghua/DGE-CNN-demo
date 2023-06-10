@@ -17,6 +17,7 @@ run inference.py to predict the boundary-enhanced depth map for input 2D image.
 
 run segment.py to conduct pixel-average slicing according to predicted depth map and input 2D image.
 
+The layer-based angular spectrum hologram generation is not available in this repository but may be obtained from the authors upon reasonable request.
 
 # Data
 Download the NYU Depth Dataset V2 Labelled Dataset : http://horatio.cs.nyu.edu/mit/silberman/nyu_depth_v2/nyu_depth_v2_labeled.mat.
