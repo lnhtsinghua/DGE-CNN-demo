@@ -7,7 +7,7 @@ DGE-CNN demo for 2D-to-3D holographic display based on depth gradient extracting
 
 "DGE module is packed in loss_gd in utils.py, to generate boundary-enhanced depth maps, train the network with loss_gd."
 
-Author: Ninghe Liu (lnh20@mails.tsinghua.edu.cn)
+Author: Ninghe Liu (liuninghe01@gmail.com)
 
 
 # Usage
